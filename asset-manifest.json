@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PepeX-Mobile/static/css/main.cf6deee5.css",
-    "main.js": "/PepeX-Mobile/static/js/main.bda3ea79.js",
+    "main.js": "/PepeX-Mobile/static/js/main.cba1f5b8.js",
     "static/js/904.7e748a0b.chunk.js": "/PepeX-Mobile/static/js/904.7e748a0b.chunk.js",
     "static/js/87.8e189a54.chunk.js": "/PepeX-Mobile/static/js/87.8e189a54.chunk.js",
     "static/js/581.14de1429.chunk.js": "/PepeX-Mobile/static/js/581.14de1429.chunk.js",
@@ -80,7 +80,7 @@
     "static/media/inter-vietnamese-400-normal.woff2": "/PepeX-Mobile/static/media/inter-vietnamese-400-normal.789afb71d327988e2fc8.woff2",
     "index.html": "/PepeX-Mobile/index.html",
     "main.cf6deee5.css.map": "/PepeX-Mobile/static/css/main.cf6deee5.css.map",
-    "main.bda3ea79.js.map": "/PepeX-Mobile/static/js/main.bda3ea79.js.map",
+    "main.cba1f5b8.js.map": "/PepeX-Mobile/static/js/main.cba1f5b8.js.map",
     "904.7e748a0b.chunk.js.map": "/PepeX-Mobile/static/js/904.7e748a0b.chunk.js.map",
     "87.8e189a54.chunk.js.map": "/PepeX-Mobile/static/js/87.8e189a54.chunk.js.map",
     "581.14de1429.chunk.js.map": "/PepeX-Mobile/static/js/581.14de1429.chunk.js.map",
@@ -123,6 +123,6 @@
   },
   "entrypoints": [
     "static/css/main.cf6deee5.css",
-    "static/js/main.bda3ea79.js"
+    "static/js/main.cba1f5b8.js"
   ]
 }
